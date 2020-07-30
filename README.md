@@ -23,6 +23,8 @@ If you add or remove patients, adjust the chart axis limits to ensure all are vi
 
 If you add or more events, edit the chart series (right click, select "Select data...", click "Add" or "Remove", similar to existing event series).
 
-## More Information
+## Contact
 
-For more information, please contact Paul T. Grogan <pgrogan@stevens.edu>.
+Paul T. Grogan <pgrogan@stevens.edu>
+School of Systems and Enterprises
+Stevens Institute of Technology
