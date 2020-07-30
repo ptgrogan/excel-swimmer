@@ -2,6 +2,12 @@
 
 Simple Excel-based swimmer plots to illustrate patient stories.
 
+## Examples
+
+![Swimmer plot with vertical layout](swimmer-vertical.png)
+
+![Swimmer plot with horizontal layout](swimmer-horizontal.png)
+
 ## Overview
 
 This repository contains a simple Excel spreadsheet for creating swimmer plots to illustrate patient stories. It does not require or depend on any other software to use. Edit any of the cells with blue text to customize the swimmer plots which are available in both horizontal and vertical orientations.
