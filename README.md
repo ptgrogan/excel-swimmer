@@ -26,5 +26,3 @@ If you add or more events, edit the chart series (right click, select "Select da
 ## Contact
 
 Paul T. Grogan <pgrogan@stevens.edu>
-
-School of Systems and Enterprises, Stevens Institute of Technology
