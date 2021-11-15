@@ -2,6 +2,8 @@
 
 Simple Excel-based swimmer plots to illustrate patient stories.
 
+[Direct Download](https://github.com/ptgrogan/excel-swimmer/blob/master/swimmer.xlsx?raw=true)
+
 ## Examples
 
 ![Swimmer plot with vertical layout](swimmer-vertical.png)
