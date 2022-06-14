@@ -38,6 +38,8 @@ If you add or remove patients, adjust the chart axis limits to ensure all are vi
 
 If you add or more events, edit the chart series (right click, select "Select data...", click "Add" or "Remove", similar to existing event series).
 
+![Customizing events](docs/swimmer-new-category.gif)
+
 ## Contact
 
 Paul T. Grogan <pgrogan@stevens.edu>
